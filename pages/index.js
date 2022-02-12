@@ -4,7 +4,6 @@ import Typography from "@mui/material/Typography";
 import styles from "../styles/Home.module.css";
 import { Grid } from "@mui/material";
 import React from "react";
-import theme from "../src/theme";
 
 export default function Index() {
   // console.log("hello")
